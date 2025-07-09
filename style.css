@@ -1,0 +1,35 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: #fffddd;
+    height: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+
+.header,.chicken, .salad, .spaghetti{
+    color:blue;
+    background-color: aqua;
+    margin: 30px;
+    padding: 50px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.home,.details {
+    color:blue;
+    background-color: aqua;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+
+.pic {
+    text-align: center;
+}
